@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T12:31:45.566Z",
+  "generatedAt": "2026-04-09T12:35:43.097Z",
   "count": 3,
   "items": [
     {
@@ -8,7 +8,7 @@
       "country": "Switzerland",
       "countryCode": "CH",
       "city": "Lugano",
-      "date": "2026-04-23",
+      "date": "2026-04-23T14:00:00.000Z",
       "link": ""
     },
     {
@@ -17,7 +17,7 @@
       "country": "Italy",
       "countryCode": "IT",
       "city": "Milano",
-      "date": "2026-07-15",
+      "date": "2026-07-15T08:00:00.000Z",
       "link": "https://www.strava.com/"
     },
     {
@@ -26,7 +26,7 @@
       "country": "Poland",
       "countryCode": "PL",
       "city": "Kostriz",
-      "date": "2026-10-13",
+      "date": "2026-10-13T05:00:00.000Z",
       "link": "https://www.assos.com/"
     }
   ]
