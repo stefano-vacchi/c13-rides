@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-09T12:35:43.097Z",
-  "count": 3,
+  "generatedAt": "2026-04-09T12:38:52.530Z",
+  "count": 4,
   "items": [
+    {
+      "id": "rec7fLmSQoH9iX5wC",
+      "dealer": "BikePlace",
+      "country": "United States",
+      "countryCode": "US",
+      "city": "New York",
+      "date": "2026-02-09T08:30:00.000Z",
+      "link": ""
+    },
     {
       "id": "recMsZvlrcVLShkY3",
       "dealer": "ASSOS Boutique Lugano",
