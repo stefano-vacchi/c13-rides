@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-04-09T10:01:12.481Z",
+  "count": 3,
+  "items": [
+    {
+      "id": "recSbg58InPai8RZI",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "recw0Z63GtrJej9rw",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "recMsZvlrcVLShkY3",
+      "dealer": "ASSOS Boutique Lugano",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Lugano",
+      "date": "2026-04-23",
+      "link": ""
+    }
+  ]
+}
