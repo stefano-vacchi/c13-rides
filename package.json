@@ -1,0 +1,8 @@
+{
+  "name": "rides-cache-airtable",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-rides.js"
+  }
+}
