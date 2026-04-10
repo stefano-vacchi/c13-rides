@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-10T05:18:49.047Z",
-  "count": 4,
+  "generatedAt": "2026-04-10T13:57:57.402Z",
+  "count": 5,
   "items": [
     {
       "id": "rec7fLmSQoH9iX5wC",
@@ -9,6 +9,15 @@
       "countryCode": "US",
       "city": "New York",
       "date": "2026-02-09T08:30:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recnP1MftckJRPmth",
+      "dealer": "ASSOS Lugano Boutique",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Lugano",
+      "date": "2026-04-11T08:00:00.000Z",
       "link": ""
     },
     {
