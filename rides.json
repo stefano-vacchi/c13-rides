@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-24T05:28:26.890Z",
-  "count": 24,
+  "generatedAt": "2026-04-25T05:06:22.025Z",
+  "count": 25,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -91,6 +91,15 @@
       "city": "Lugano",
       "date": "2026-05-07T06:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recmVxKlKAQtzKmg4",
+      "dealer": "Ciclissimo Valais",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Uvrier",
+      "date": "2026-05-09T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3482759171753008994"
     },
     {
       "id": "recRKHdJPcE58wTCw",
