@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T05:52:06.607Z",
+  "generatedAt": "2026-04-28T09:49:04.495Z",
   "count": 25,
   "items": [
     {
@@ -89,7 +89,7 @@
       "country": "Switzerland",
       "countryCode": "CH",
       "city": "Lugano",
-      "date": "2026-05-07T06:00:00.000Z",
+      "date": "2026-05-07T18:30:00.000Z",
       "link": ""
     },
     {
@@ -161,8 +161,8 @@
       "country": "Lithuania",
       "countryCode": "LT",
       "city": "Vilnius",
-      "date": "2026-05-24T09:00:00.000Z",
-      "link": ""
+      "date": "2026-05-24T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3484136917221435530"
     },
     {
       "id": "recaJlcFG2yR3rCFM",
