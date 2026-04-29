@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-04-28T09:49:04.495Z",
-  "count": 25,
+  "generatedAt": "2026-04-29T05:47:51.260Z",
+  "count": 27,
   "items": [
+    {
+      "id": "recmPKWz3cUVQSvm3",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -85,12 +94,12 @@
     },
     {
       "id": "recrPbypZzdY5GOTO",
-      "dealer": "ASSOS Boutique Lugano - 6AM & 6PM Ride",
+      "dealer": "ASSOS Boutique Lugano - Sunset Ride to Tenuta Bally",
       "country": "Switzerland",
       "countryCode": "CH",
       "city": "Lugano",
       "date": "2026-05-07T18:30:00.000Z",
-      "link": ""
+      "link": "https://www.strava.com/clubs/99524/group_events/3484157286737557414"
     },
     {
       "id": "recmVxKlKAQtzKmg4",
@@ -117,7 +126,7 @@
       "countryCode": "PL",
       "city": "Warsaw",
       "date": "2026-05-17T09:00:00.000Z",
-      "link": ""
+      "link": "https://www.strava.com/clubs/99524/group_events/3484206686425525524"
     },
     {
       "id": "reckfTZoDKDxpR5fw",
@@ -144,6 +153,15 @@
       "countryCode": "DK",
       "city": "Hillerød",
       "date": "2026-05-23T09:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recCnFVuXXWu73vRX",
+      "dealer": "Faido\n  bike day",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Faido",
+      "date": "2026-05-23T18:30:00.000Z",
       "link": ""
     },
     {
@@ -202,7 +220,7 @@
     },
     {
       "id": "reczCfDq4cOBJ0aKl",
-      "dealer": "ASSOS Boutique Lugano - Giro d'Itali",
+      "dealer": "ASSOS Boutique Lugano - Ride + Giro vision",
       "country": "Switzerland",
       "countryCode": "CH",
       "city": "Lugano",
