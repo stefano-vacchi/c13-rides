@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-05-04T05:57:02.816Z",
+  "generatedAt": "2026-05-05T05:35:38.665Z",
   "count": 27,
   "items": [
-    {
-      "id": "recmPKWz3cUVQSvm3",
-      "dealer": "",
-      "country": "",
-      "countryCode": "",
-      "city": "",
-      "date": "",
-      "link": ""
-    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -111,13 +102,22 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3482759171753008994"
     },
     {
+      "id": "recmPKWz3cUVQSvm3",
+      "dealer": "Racing Bike Sport SRL",
+      "country": "Italy",
+      "countryCode": "IT",
+      "city": "Padova",
+      "date": "2026-05-10T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3486359783284435330/occurrences/FQIWhKaDnovwhOJgHBTUHxQKFBQUEhQAFAAAHBaApvyKwmcAAA=="
+    },
+    {
       "id": "recRKHdJPcE58wTCw",
       "dealer": "Racing Bike Sport SRL",
       "country": "Italy",
       "countryCode": "IT",
       "city": "Padova",
-      "date": "2026-05-10T09:00:00.000Z",
-      "link": ""
+      "date": "2026-05-10T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3486357038639960450/occurrences/FQIWhMaKharQg-JgHBTUHxQKFBQUEhQAFAAAHBaApvyKwmcAAA=="
     },
     {
       "id": "receoD2cJyZB3Wv5Q",
