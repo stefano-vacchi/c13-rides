@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-12T06:00:03.393Z",
-  "count": 27,
+  "generatedAt": "2026-05-13T06:20:13.435Z",
+  "count": 28,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -197,7 +197,7 @@
       "country": "Germany",
       "countryCode": "DE",
       "city": "Leipzig",
-      "date": "2026-05-27T09:00:00.000Z",
+      "date": "2026-05-27T18:00:00.000Z",
       "link": ""
     },
     {
@@ -234,6 +234,15 @@
       "countryCode": "PL",
       "city": "Krakow",
       "date": "2026-06-06T09:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recEtByAuv7Im7tzN",
+      "dealer": "Gianina Cycling",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Zurich",
+      "date": "2026-06-06T09:30:00.000Z",
       "link": ""
     },
     {
