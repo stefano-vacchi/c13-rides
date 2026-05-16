@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T06:26:38.501Z",
-  "count": 28,
+  "generatedAt": "2026-05-16T05:48:00.622Z",
+  "count": 29,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -120,15 +120,6 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3486357038639960450/occurrences/FQIWhMaKharQg-JgHBTUHxQKFBQUEhQAFAAAHBaApvyKwmcAAA=="
     },
     {
-      "id": "receoD2cJyZB3Wv5Q",
-      "dealer": "Na Szosie",
-      "country": "Poland",
-      "countryCode": "PL",
-      "city": "Warsaw",
-      "date": "2026-05-17T09:00:00.000Z",
-      "link": "https://www.strava.com/clubs/99524/group_events/3484206686425525524"
-    },
-    {
       "id": "reckfTZoDKDxpR5fw",
       "dealer": "MTBiker",
       "country": "Slowakia",
@@ -172,6 +163,15 @@
       "city": "Girona",
       "date": "2026-05-24T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3488822689649562962/occurrences/FQIWpNWUzo3w5OpgHBTUHxQKFDAUFhQAFAAAHBaAurOTy2cAAA=="
+    },
+    {
+      "id": "receoD2cJyZB3Wv5Q",
+      "dealer": "Na Szosie",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Warsaw",
+      "date": "2026-05-24T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3484206686425525524"
     },
     {
       "id": "rec5ouizCmpwnEyDe",
@@ -244,6 +244,15 @@
       "city": "Zurich",
       "date": "2026-06-06T09:30:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recNDThGGR5yrH54T",
+      "dealer": "ToToSPORT",
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "city": "Trnava",
+      "date": "2026-06-13T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3490306004241340820/occurrences/FQIWqOa-w7C0h_BgHBTUHxQMFBoUEhQ8FAAAHBaA45n-12cAAA=="
     },
     {
       "id": "recCNCcj5W33OLDCB",
