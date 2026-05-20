@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-19T06:42:30.422Z",
-  "count": 29,
+  "generatedAt": "2026-05-20T06:43:03.562Z",
+  "count": 31,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -183,6 +183,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3484136917221435530"
     },
     {
+      "id": "rec0NOXSi1yRrhS5q",
+      "dealer": "GIRO x Urgesport",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Giubiasco",
+      "date": "2026-05-25T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3491761231485826386/occurrences/FQIWpNWLs-CVnfVgHBTUHxQKFDIUEhQAFAAAHBaAtvfey2cAAA=="
+    },
+    {
       "id": "recaJlcFG2yR3rCFM",
       "dealer": "Leadout Cycling ",
       "country": "Denmark",
@@ -244,6 +253,15 @@
       "city": "Zurich",
       "date": "2026-06-06T09:30:00.000Z",
       "link": ""
+    },
+    {
+      "id": "rec87uYVEP3QOwAfu",
+      "dealer": "Terra Bike Terrassa",
+      "country": "Spain",
+      "countryCode": "ES",
+      "city": "Terrassa",
+      "date": "2026-06-06T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3491791443798150746/occurrences/FQIWtLmy1av0qvVgHBTUHxQMFAwUEhQ8FAAAHBaA07W902cAAA=="
     },
     {
       "id": "recNDThGGR5yrH54T",
