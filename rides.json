@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T06:43:03.562Z",
-  "count": 31,
+  "generatedAt": "2026-05-21T06:46:37.580Z",
+  "count": 32,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -207,7 +207,7 @@
       "countryCode": "DE",
       "city": "Leipzig",
       "date": "2026-05-27T18:00:00.000Z",
-      "link": ""
+      "link": "https://www.strava.com/clubs/99524/group_events/3492090078390102654/occurrences/FQIW_Knd4ZTbsvZgHBTUHxQKFDYUJBQAFAAAHBaAoNCizWcAAA=="
     },
     {
       "id": "recZBCClsQsMxajBl",
@@ -224,8 +224,17 @@
       "country": "Germany",
       "countryCode": "DE",
       "city": "Berlin",
-      "date": "2026-05-28T09:00:00.000Z",
-      "link": ""
+      "date": "2026-05-28T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492182410579725950/occurrences/FQIW_LnGl83Z3PZgHBTUHxQKFDgUJBQAFAAAHBaAkIP1zWcAAA=="
+    },
+    {
+      "id": "recZTOrEpxVOqYXwM",
+      "dealer": "Alsace Velo Passion",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Strasbourg",
+      "date": "2026-05-28T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492075581298669894/occurrences/FQIWjOX7gamPrPZgHBTUHxQKFDgUJBQAFAAAHBaAkIP1zWcAAA=="
     },
     {
       "id": "reczCfDq4cOBJ0aKl",
