@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T06:46:37.580Z",
-  "count": 32,
+  "generatedAt": "2026-05-22T06:42:48.078Z",
+  "count": 37,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -237,6 +237,42 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3492075581298669894/occurrences/FQIWjOX7gamPrPZgHBTUHxQKFDgUJBQAFAAAHBaAkIP1zWcAAA=="
     },
     {
+      "id": "reci49kPzYWA81xsD",
+      "dealer": "Rowery  Kadrzyński (Route 1 - short)",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Szczecin",
+      "date": "2026-05-30T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492465364892074974/occurrences/FQIWvI_6i9uv3fdgHBTUHxQKFDwUEhQ8FAAAHBaAw9H8zmcAAA=="
+    },
+    {
+      "id": "recpIyYXbIcxbzC89",
+      "dealer": "Rowery  Kadrzyński (Route 2 - medium)",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Szczecin",
+      "date": "2026-05-30T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492465709812396358/occurrences/FQIWjMXN-eTD3fdgHBTUHxQKFDwUEhQ8FAAAHBaAw9H8zmcAAA=="
+    },
+    {
+      "id": "recoK2jE6Px0o0TeA",
+      "dealer": "Rowery  Kadrzyński (Route 3 - long)",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Szczecin",
+      "date": "2026-05-30T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492466072604933446/occurrences/FQIWjPXD-_PY3fdgHBTUHxQKFDwUEhQ8FAAAHBaAw9H8zmcAAA=="
+    },
+    {
+      "id": "rect11IjMKgSwU8ix",
+      "dealer": "K7 bikes",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Paris",
+      "date": "2026-05-30T09:30:00.000Z",
+      "link": ""
+    },
+    {
       "id": "reczCfDq4cOBJ0aKl",
       "dealer": "ASSOS Boutique Lugano - Ride + Giro vision",
       "country": "Switzerland",
@@ -244,6 +280,15 @@
       "city": "Lugano",
       "date": "2026-05-30T10:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recxBHr16yFduKu27",
+      "dealer": "Rêve de velo ",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Jacou",
+      "date": "2026-06-06T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3492484821319438662/occurrences/FQIWjMWC45yc5vdgHBTUHxQMFAwUEBQ8FAAAHBaAmf6502cAAA=="
     },
     {
       "id": "recMRZfsjd45jVLRy",
