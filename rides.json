@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-05-28T06:46:57.474Z",
-  "count": 37,
+  "generatedAt": "2026-05-29T06:47:33.189Z",
+  "count": 44,
   "items": [
+    {
+      "id": "recVAdL4BBEVZd1O3",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -282,6 +291,42 @@
       "link": ""
     },
     {
+      "id": "recLKRXcpb6cSTnoP",
+      "dealer": "EF Adventure x ASSOS Collective 13 by Junction CC - 50mi",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Cambridge",
+      "date": "2026-05-30T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3494983493548603852/occurrences/FQIWmOeLzYu-1oBhHBTUHxQKFDwUFBQAFAAAHBaA_PmSz2cAAA=="
+    },
+    {
+      "id": "recjqnuaPOW6egcbt",
+      "dealer": "EF Adventure x ASSOS Collective 13 by Junction CC - 30mi",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Cambridge",
+      "date": "2026-05-30T11:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3494984073062334502/occurrences/FQIWzIC6qOnf1oBhHBTUHxQKFDwUFhQAFAAAHBaAtrGWz2cAAA=="
+    },
+    {
+      "id": "recliBGHL4UG4IR45",
+      "dealer": "Hank  Sport - long",
+      "country": "Norway",
+      "countryCode": "NO",
+      "city": "Trondheim",
+      "date": "2026-06-02T16:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3495033600829673936/occurrences/FQIWoMeO-Nui7YBhHBTUHxQMFAQUIBQAFAAAHBaAzJKK0WcAAA=="
+    },
+    {
+      "id": "recAqzgG4NjZOjlR5",
+      "dealer": "Hank Sport - short ",
+      "country": "Norway",
+      "countryCode": "NO",
+      "city": "Trondheim",
+      "date": "2026-06-02T16:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3495034538645130588/occurrences/FQIWuLXQmqfZ7YBhHBTUHxQMFAQUIBQAFAAAHBaAzJKK0WcAAA=="
+    },
+    {
       "id": "recxBHr16yFduKu27",
       "dealer": "Rêve de velo ",
       "country": "France",
@@ -316,6 +361,24 @@
       "city": "Terrassa",
       "date": "2026-06-06T09:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3491791443798150746/occurrences/FQIWtLmy1av0qvVgHBTUHxQMFAwUEhQ8FAAAHBaA07W902cAAA=="
+    },
+    {
+      "id": "rect10w4JCrcwCf80",
+      "dealer": "Ustawka ",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Krakow",
+      "date": "2026-06-06T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3495088940970245584/occurrences/FQIWoPfrjvi3hoFhHBTUHxQMFAwUFBQAFAAAHBaAsJG_02cAAA=="
+    },
+    {
+      "id": "recpWgstNVpFLr2rv",
+      "dealer": "Karl Von Drais",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt",
+      "date": "2026-06-10T18:00:00.000Z",
+      "link": ""
     },
     {
       "id": "recNDThGGR5yrH54T",
