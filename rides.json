@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-02T07:18:25.747Z",
-  "count": 45,
+  "generatedAt": "2026-06-03T08:09:46.459Z",
+  "count": 53,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -318,6 +318,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3495034538645130588/occurrences/FQIWuLXQmqfZ7YBhHBTUHxQMFAQUIBQAFAAAHBaAzJKK0WcAAA=="
     },
     {
+      "id": "rec8CAwKjf4icMRFL",
+      "dealer": "Tulsa Tough Ride With The Pros ",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Tulsa",
+      "date": "2026-06-04T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496859256763208588/occurrences/FQIWmM7CzvC9q4dhHBTUHxQMFAgUJBQAFAAAHBaAtuvN0mcAAA=="
+    },
+    {
       "id": "recxBHr16yFduKu27",
       "dealer": "Rêve de velo ",
       "country": "France",
@@ -381,6 +390,24 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3495088940970245584/occurrences/FQIWoPfrjvi3hoFhHBTUHxQMFAwUFBQAFAAAHBaAsJG_02cAAA=="
     },
     {
+      "id": "recgNqj8dVD3QQXWj",
+      "dealer": "Sport Stegmaier - Social Pace Route",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Stuttgart",
+      "date": "2026-06-07T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496814438836898176/occurrences/FQIWgKakhZGNl4dhHBTUHxQMFA4UEhQAFAAAHBaA5oyO1GcAAA=="
+    },
+    {
+      "id": "recbhxn2N2ywHptUy",
+      "dealer": "Sport Stegmaier - Fast Pace Route",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Stuttgart",
+      "date": "2026-06-07T09:00:00.000Z",
+      "link": ""
+    },
+    {
       "id": "recpWgstNVpFLr2rv",
       "dealer": "Karl Von Drais",
       "country": "Germany",
@@ -388,6 +415,24 @@
       "city": "Frankfurt",
       "date": "2026-06-10T18:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "rechwgPBpZGcSv18q",
+      "dealer": "KarlvonDrais - special Assos",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt",
+      "date": "2026-06-10T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496795283483622524/occurrences/FQIW-PHrxJKyjodhHBTUHxQMFBQUJBQAFAAAHBaAwJik1mcAAA=="
+    },
+    {
+      "id": "recsxdTyYVOwH5sOB",
+      "dealer": "KarlvonDrais - Girls Only",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt",
+      "date": "2026-06-10T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496796334098931902/occurrences/FQIW_ILXnabvjodhHBTUHxQMFBQUJBQAFAAAHBaAwJik1mcAAA=="
     },
     {
       "id": "recNDThGGR5yrH54T",
@@ -399,6 +444,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3490306004241340820/occurrences/FQIWqOa-w7C0h_BgHBTUHxQMFBoUEhQ8FAAAHBaA45n-12cAAA=="
     },
     {
+      "id": "recM5p2SJW22NSA6S",
+      "dealer": "Cycles Orsini",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Bastia",
+      "date": "2026-06-14T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496831326982380928/occurrences/FQIWgPbww5PknodhHBTUHxQMFBwUEBQAFAAAHBaAvLnL2GcAAA=="
+    },
+    {
       "id": "recCNCcj5W33OLDCB",
       "dealer": "Sprint Rowery",
       "country": "Poland",
@@ -406,6 +460,24 @@
       "city": "Białystok",
       "date": "2026-06-20T09:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "rec67tFITPEv2R4RH",
+      "dealer": "Sprint  Rowery - Long Route",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Białystok",
+      "date": "2026-06-20T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496887269418288318/occurrences/FQIW_JKalLecuIdhHBTUHxQMFCgUFBQAFAAAHBaA0NnA3GcAAA=="
+    },
+    {
+      "id": "reckpvlDUot1IyBHz",
+      "dealer": "Sprint  Rowery - Short Route",
+      "country": "Poland",
+      "countryCode": "PL",
+      "city": "Białystok",
+      "date": "2026-06-20T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3496887593441067916/occurrences/FQIWmI60qKWvuIdhHBTUHxQMFCgUFBQAFAAAHBaA0NnA3GcAAA=="
     }
   ]
 }
