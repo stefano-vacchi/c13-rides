@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T08:40:29.007Z",
-  "count": 53,
+  "generatedAt": "2026-06-17T08:23:48.472Z",
+  "count": 54,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -478,6 +478,15 @@
       "city": "Białystok",
       "date": "2026-06-20T10:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3496887593441067916/occurrences/FQIWmI60qKWvuIdhHBTUHxQMFCgUFBQAFAAAHBaA0NnA3GcAAA=="
+    },
+    {
+      "id": "reclJuj446BVwEZYp",
+      "dealer": "Culture Velo Metz",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Jouy-aux-Arches",
+      "date": "2026-06-28T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3501891711647150366/occurrences/FQIWvMTnqaf9m5lhHBTUHxQMFDgUEBQAFAAAHBaA3IHN4WcAAA=="
     }
   ]
 }
