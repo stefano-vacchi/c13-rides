@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-06-17T08:23:48.472Z",
-  "count": 54,
+  "generatedAt": "2026-06-17T13:08:01.461Z",
+  "count": 69,
   "items": [
+    {
+      "id": "recaL3Bsmx7sXW0w2",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -462,6 +471,15 @@
       "link": ""
     },
     {
+      "id": "recLCQemV7INmO5al",
+      "dealer": "Village Gravel",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Bellemont, AZ",
+      "date": "2026-06-20T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502248865719097216/occurrences/FQIWgN6cw7SyvpphHBTUHxQMFCQUEhQAFAAAHBaAwK-322cAAA=="
+    },
+    {
       "id": "rec67tFITPEv2R4RH",
       "dealer": "Sprint  Rowery - Long Route",
       "country": "Poland",
@@ -480,6 +498,42 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3496887593441067916/occurrences/FQIWmI60qKWvuIdhHBTUHxQMFCgUFBQAFAAAHBaA0NnA3GcAAA=="
     },
     {
+      "id": "recyPQkXJuLiaeUJP",
+      "dealer": "Women's ride PCC Losanna",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Losanna",
+      "date": "2026-06-21T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502306745987619712/occurrences/FQIWgO7ekL7b2JphHBTUHxQMFCoUEhQ8FAAAHBaA47CR3WcAAA=="
+    },
+    {
+      "id": "rec6d7SuqQIVcEP0N",
+      "dealer": "ASSOS BTQ LUG - Sunset Ride w/ZARAH Wine",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Lugano",
+      "date": "2026-06-24T18:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502308306202214272/occurrences/FQIWgP6p0aa22ZphHBTUHxQMFDAUJBQ8FAAAHBaAvbyn32cAAA=="
+    },
+    {
+      "id": "recqXlm2Pl7XpJNxQ",
+      "dealer": "ASSOS BTQ LUG - Ride to Settetermini",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Lugano",
+      "date": "2026-06-27T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502309410902163158/occurrences/FQIWrPulpc322ZphHBTUHxQMFCQUEhQAFAAAHBaAtryY22cAAA=="
+    },
+    {
+      "id": "recE0HHrjV4ddItos",
+      "dealer": "Cycling Lounge",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Zugo",
+      "date": "2026-06-27T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502312198665632750/occurrences/FQIW3O_b3--Y25phHBTUHxQMFDYUFBQAFAAAHBaA4L2B4WcAAA=="
+    },
+    {
       "id": "reclJuj446BVwEZYp",
       "dealer": "Culture Velo Metz",
       "country": "France",
@@ -487,6 +541,87 @@
       "city": "Jouy-aux-Arches",
       "date": "2026-06-28T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3501891711647150366/occurrences/FQIWvMTnqaf9m5lhHBTUHxQMFDgUEBQAFAAAHBaA3IHN4WcAAA=="
+    },
+    {
+      "id": "recTjP0iM8QrhvNQC",
+      "dealer": "Cadence Cyclery Encinitas (Women's Summer Social Ride)",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Encinitas, CA",
+      "date": "2026-06-28T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502251526568699886/occurrences/FQIW3J-Ts6XNv5phHBTUHxQMFDgUEBQ8FAAAHBaAw9Dt4WcAAA=="
+    },
+    {
+      "id": "recFr30h5loYMEQxi",
+      "dealer": "MAATS Amsterdam",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "city": "Amsterdam",
+      "date": "2026-06-28T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3500430607719890318/occurrences/FQIWnPbj4O7Fg5RhHBTUHxQMFDgUEhQAFAAAHBaAlrnQ4WcAAA=="
+    },
+    {
+      "id": "recPFXxK1PXGJkj9s",
+      "dealer": "Andermatt / The Base",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Andermatt",
+      "date": "2026-06-29T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3497564835630688640/occurrences/FQIWgKbR6vyr7IlhHBTUHxQMFDoUEhQeFAAAHBbA9Nmj4mcAAA=="
+    },
+    {
+      "id": "rec9Tymhc9KcdeMwH",
+      "dealer": "Urgesport Giubiasco",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Giubiasco",
+      "date": "2026-07-04T08:30:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recgzeRZRAt0pSjRD",
+      "dealer": "Breakout x Maratona Dles Dolomites w/SMITH",
+      "country": "Italy",
+      "countryCode": "IT",
+      "city": "Corvara",
+      "date": "2026-07-04T09:30:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recpQAVRNgARvQVyK",
+      "dealer": "Pizza Ride w/Patrouille Cycling Club (PCC)",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Losanna",
+      "date": "2026-07-07T18:30:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recormZfQbMmjjNWk",
+      "dealer": "Rock n Road + Ascona-Locarno",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Locarno",
+      "date": "2026-07-11T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502313774457773032/occurrences/FQIW0O-aqMz025phHBTUHxQOFBYUFBQAFAAAHBaAgIaD6mcAAA=="
+    },
+    {
+      "id": "recDUu65GGrB9F7Kf",
+      "dealer": "ASSOS BTQ LUG - Ride to Balcone d'Italia Sighignola",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Lugano",
+      "date": "2026-07-18T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3502310392820300332/occurrences/FQIW2Oizk-Gv2pphHBTUHxQOFCQUEhQ8FAAAHBaAs47C7mcAAA=="
+    },
+    {
+      "id": "recrnthDxI1NOFB1y",
+      "dealer": "Colani Sport",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "La Punt",
+      "date": "2026-07-18T09:30:00.000Z",
+      "link": ""
     }
   ]
 }
