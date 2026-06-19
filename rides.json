@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-06-18T07:28:57.819Z",
-  "count": 69,
+  "generatedAt": "2026-06-19T08:26:32.091Z",
+  "count": 70,
   "items": [
-    {
-      "id": "recaL3Bsmx7sXW0w2",
-      "dealer": "",
-      "country": "",
-      "countryCode": "",
-      "city": "",
-      "date": "",
-      "link": ""
-    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -462,6 +453,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3496831326982380928/occurrences/FQIWgPbww5PknodhHBTUHxQMFBwUEBQAFAAAHBaAvLnL2GcAAA=="
     },
     {
+      "id": "recEidyafnSdNhCk1",
+      "dealer": "La\n  Bicicletta",
+      "country": "Canada",
+      "countryCode": "CA",
+      "city": "Toronto",
+      "date": "2026-06-20T08:00:00.000Z",
+      "link": ""
+    },
+    {
       "id": "recCNCcj5W33OLDCB",
       "dealer": "Sprint Rowery",
       "country": "Poland",
@@ -576,7 +576,7 @@
       "countryCode": "CH",
       "city": "Giubiasco",
       "date": "2026-07-04T08:30:00.000Z",
-      "link": ""
+      "link": "https://www.strava.com/clubs/99524/group_events/3502632399565843438/occurrences/FQIW3K-rroLn7JthHBTUHxQOFAgUEBQ8FAAAHBaA2Y695WcAAA=="
     },
     {
       "id": "recgzeRZRAt0pSjRD",
@@ -604,6 +604,15 @@
       "city": "Locarno",
       "date": "2026-07-11T08:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3502313774457773032/occurrences/FQIW0O-aqMz025phHBTUHxQOFBYUFBQAFAAAHBaAgIaD6mcAAA=="
+    },
+    {
+      "id": "recaL3Bsmx7sXW0w2",
+      "dealer": "Racer\n  Sportif",
+      "country": "Canada",
+      "countryCode": "CA",
+      "city": "Toronto",
+      "date": "2026-07-12T08:00:00.000Z",
+      "link": ""
     },
     {
       "id": "recDUu65GGrB9F7Kf",
