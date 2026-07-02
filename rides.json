@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01T07:05:28.784Z",
-  "count": 70,
+  "generatedAt": "2026-07-02T06:33:33.438Z",
+  "count": 73,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -597,6 +597,24 @@
       "link": ""
     },
     {
+      "id": "recehDzBBsv5Ljwyx",
+      "dealer": "City Cycles - Long Route",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Jenks, OK",
+      "date": "2026-07-11T07:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3507326212191884550/occurrences/FQIWjNTo0e-mw6xhHBTUHxQOFBYUDhQAFAAAHBaA6OOQ6mcAAA=="
+    },
+    {
+      "id": "recaidRbAFAehxi9o",
+      "dealer": "City Cycles - Short Route",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Jenks, OK",
+      "date": "2026-07-11T07:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3507327602113380766/occurrences/FQIWvIagruP3w6xhHBTUHxQOFBYUDhQAFAAAHBaA6OOQ6mcAAA=="
+    },
+    {
       "id": "recormZfQbMmjjNWk",
       "dealer": "Rock n Road + Ascona-Locarno",
       "country": "Switzerland",
@@ -613,6 +631,15 @@
       "city": "Toronto",
       "date": "2026-07-12T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3502977872720932846/occurrences/FQIW3L-t-Zn0iZ1hHBTUHxQOFBgUEBQAFAAAHBaA2Jbj6mcAAA=="
+    },
+    {
+      "id": "recI6msN02Iv7M6g1",
+      "dealer": "RA Cycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Walnut Creek, CA",
+      "date": "2026-07-18T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3507329731233600364/occurrences/FQIW2M3CxdrzxKxhHBTUHxQOFCQUEBQAFAAAHBaApu7b7mcAAA=="
     },
     {
       "id": "recDUu65GGrB9F7Kf",
