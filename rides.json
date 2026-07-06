@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-05T06:33:13.518Z",
-  "count": 73,
+  "generatedAt": "2026-07-06T07:04:14.873Z",
+  "count": 74,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -658,6 +658,15 @@
       "city": "La Punt",
       "date": "2026-07-18T09:30:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recSJhA55xzuSWGdl",
+      "dealer": "Steel Cyclewear - TDF Paris Stage w/ NoDrop",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Paris",
+      "date": "2026-07-25T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3509105389083561420/occurrences/FQIWmLfgu8yw7LJhHBTUHxQOFDIUEBQAFAAAHBaArN_98mcAAA=="
     }
   ]
 }
