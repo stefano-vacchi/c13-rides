@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-06T07:04:14.873Z",
-  "count": 74,
+  "generatedAt": "2026-07-07T06:38:10.111Z",
+  "count": 75,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -640,6 +640,15 @@
       "city": "Walnut Creek, CA",
       "date": "2026-07-18T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3507329731233600364/occurrences/FQIW2M3CxdrzxKxhHBTUHxQOFCQUEBQAFAAAHBaApu7b7mcAAA=="
+    },
+    {
+      "id": "recapgV7acZhBJ77X",
+      "dealer": "Colani Sport - Gravel Ride",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "La Punt",
+      "date": "2026-07-18T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3509148331542915734/occurrences/FQIWrKqp3Jb0_7JhHBTUHxQOFCQUEhQAFAAAHBaA1rLA7mcAAA=="
     },
     {
       "id": "recDUu65GGrB9F7Kf",
