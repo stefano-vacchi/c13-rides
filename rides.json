@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08T05:43:01.776Z",
-  "count": 75,
+  "generatedAt": "2026-07-09T06:36:09.306Z",
+  "count": 78,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -633,6 +633,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3502977872720932846/occurrences/FQIW3L-t-Zn0iZ1hHBTUHxQOFBgUEBQAFAAAHBaA2Jbj6mcAAA=="
     },
     {
+      "id": "recMQB8XvXnpfIwxa",
+      "dealer": "Sunset Ride w/ ZARAH Wine",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Mendrisio",
+      "date": "2026-07-15T18:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3509921665717819022/occurrences/FQIWnNr2qJPK37VhHBTUHxQOFB4UJBQ8FAAAHBaA7ejp7GcAAA=="
+    },
+    {
       "id": "recI6msN02Iv7M6g1",
       "dealer": "RA Cycles",
       "country": "United States",
@@ -669,6 +678,15 @@
       "link": ""
     },
     {
+      "id": "rech0uk7fLBLIXCCX",
+      "dealer": "Fullerton\n  Bikes",
+      "country": "Canada",
+      "countryCode": "CA",
+      "city": "Fullerton",
+      "date": "2026-07-22T07:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3509923362407037582/occurrences/FQIWnOrt0fSs4LVhHBTUHxQOFCwUDhQAFAAAHBaArIKi8WcAAA=="
+    },
+    {
       "id": "recSJhA55xzuSWGdl",
       "dealer": "Steel Cyclewear - TDF Paris Stage w/ NoDrop",
       "country": "France",
@@ -676,6 +694,15 @@
       "city": "Paris",
       "date": "2026-07-25T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3509105389083561420/occurrences/FQIWmLfgu8yw7LJhHBTUHxQOFDIUEBQAFAAAHBaArN_98mcAAA=="
+    },
+    {
+      "id": "recwPRISwrZWij0d7",
+      "dealer": "Mattina\n  Cycling Club",
+      "country": "Canada",
+      "countryCode": "CA",
+      "city": "Healdsburg, CA",
+      "date": "2026-08-01T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3509927432886675086/occurrences/FQIWnJrfieyZ4rVhHBTUHxQQFAIUEhQAFAAAHBaAgO7g92cAAA=="
     }
   ]
 }
