@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10T06:36:11.959Z",
-  "count": 78,
+  "generatedAt": "2026-07-11T05:33:04.861Z",
+  "count": 79,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -631,6 +631,15 @@
       "city": "Toronto",
       "date": "2026-07-12T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3502977872720932846/occurrences/FQIW3L-t-Zn0iZ1hHBTUHxQOFBgUEBQAFAAAHBaA2Jbj6mcAAA=="
+    },
+    {
+      "id": "rec1iO4PjdR9gVgGg",
+      "dealer": "MAATS Rotterdam",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "city": "Rotterdam",
+      "date": "2026-07-12T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3510656544980486398/occurrences/FQIW_KOyv-DhrbhhHBTUHxQOFBgUEhQ8FAAAHBaAk93T6mcAAA=="
     },
     {
       "id": "recMQB8XvXnpfIwxa",
