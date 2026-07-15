@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T05:22:13.514Z",
-  "count": 79,
+  "generatedAt": "2026-07-15T05:23:30.893Z",
+  "count": 82,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -687,6 +687,15 @@
       "link": ""
     },
     {
+      "id": "rec4KlXfUaaUCR1ie",
+      "dealer": "Esports Jorma",
+      "country": "Andorra",
+      "countryCode": "AND",
+      "city": "La Massana",
+      "date": "2026-07-18T10:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3512121381807714342/occurrences/FQIWzMCfq73yx71hHBTUHxQOFCQUFBQ8FAAAHBaA7cXF7mcAAA=="
+    },
+    {
       "id": "rech0uk7fLBLIXCCX",
       "dealer": "Fullerton\n  Bikes",
       "country": "Canada",
@@ -703,6 +712,24 @@
       "city": "Paris",
       "date": "2026-07-25T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3509105389083561420/occurrences/FQIWmLfgu8yw7LJhHBTUHxQOFDIUEBQAFAAAHBaArN_98mcAAA=="
+    },
+    {
+      "id": "recQDFm5qcF91WVAu",
+      "dealer": "Rochat Cycles - 105 Km",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Vevey",
+      "date": "2026-08-01T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3512105069132085856/occurrences/FQIWwOm7t_q8wL1hHBTUHxQQFAIUDhRaFAAAHBbAzdW992cAAA=="
+    },
+    {
+      "id": "recRqUqq5jCNoo6iU",
+      "dealer": "Rochat Cycles - 77 Km ",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "city": "Vevey",
+      "date": "2026-08-01T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3512104625404155942/occurrences/FQIWzODEs5CjwL1hHBTUHxQQFAIUDhRaFAAAHBbAzdW992cAAA=="
     },
     {
       "id": "recwPRISwrZWij0d7",
