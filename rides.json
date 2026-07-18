@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T05:33:46.031Z",
+  "generatedAt": "2026-07-18T05:17:14.328Z",
   "count": 82,
   "items": [
     {
@@ -698,9 +698,9 @@
     {
       "id": "rech0uk7fLBLIXCCX",
       "dealer": "Fullerton\n  Bikes",
-      "country": "Canada",
-      "countryCode": "CA",
-      "city": "Fullerton",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Fullerton, CA",
       "date": "2026-07-22T07:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3509923362407037582/occurrences/FQIWnOrt0fSs4LVhHBTUHxQOFCwUDhQAFAAAHBaArIKi8WcAAA=="
     },
@@ -734,8 +734,8 @@
     {
       "id": "recwPRISwrZWij0d7",
       "dealer": "Mattina\n  Cycling Club",
-      "country": "Canada",
-      "countryCode": "CA",
+      "country": "United States",
+      "countryCode": "USA",
       "city": "Healdsburg, CA",
       "date": "2026-08-01T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3509927432886675086/occurrences/FQIWnJrfieyZ4rVhHBTUHxQQFAIUEhQAFAAAHBaAgO7g92cAAA=="
