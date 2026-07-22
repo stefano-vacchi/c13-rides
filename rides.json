@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T05:42:01.166Z",
-  "count": 82,
+  "generatedAt": "2026-07-22T05:40:52.774Z",
+  "count": 84,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -714,6 +714,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3509105389083561420/occurrences/FQIWmLfgu8yw7LJhHBTUHxQOFDIUEBQAFAAAHBaArN_98mcAAA=="
     },
     {
+      "id": "recK35Kqc6S6blmxj",
+      "dealer": "Junction\n  Cycling ",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Beverly, MA",
+      "date": "2026-07-25T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3514633332266479892/occurrences/FQIWqMTt156ZvsZhHBTUHxQOFDIUEhQAFAAAHBaAwuOV82cAAA=="
+    },
+    {
       "id": "recQDFm5qcF91WVAu",
       "dealer": "Rochat Cycles - 105 Km",
       "country": "Switzerland",
@@ -739,6 +748,15 @@
       "city": "Healdsburg, CA",
       "date": "2026-08-01T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3509927432886675086/occurrences/FQIWnJrfieyZ4rVhHBTUHxQQFAIUEhQAFAAAHBaAgO7g92cAAA=="
+    },
+    {
+      "id": "recX9u536g6zWlFWO",
+      "dealer": "Signature\n  Cycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Darien,\n  CT",
+      "date": "2026-08-08T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3514620981234091336/occurrences/FQIWkJW-qajKuMZhHBTUHxQQFBAUEBQAFAAAHBaAqPST_GcAAA=="
     }
   ]
 }
