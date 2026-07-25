@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T05:42:25.980Z",
-  "count": 84,
+  "generatedAt": "2026-07-25T05:36:04.201Z",
+  "count": 86,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -757,6 +757,24 @@
       "city": "Darien,\n  CT",
       "date": "2026-08-08T08:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3514620981234091336/occurrences/FQIWkJW-qajKuMZhHBTUHxQQFBAUEBQAFAAAHBaAqPST_GcAAA=="
+    },
+    {
+      "id": "reckXRD9Ko8rgoZay",
+      "dealer": "Golden\n  cycles",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Vallauris",
+      "date": "2026-08-08T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3515657635394526324/occurrences/FQIW6PGk2cP_j8phHBTUHxQQFBAUEhQAFAAAHBaAht-C_GcAAA=="
+    },
+    {
+      "id": "recb87MMLYD8l4UdP",
+      "dealer": "Golden\n  Cycles",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Monaco",
+      "date": "2026-08-22T09:00:00.000Z",
+      "link": ""
     }
   ]
 }
