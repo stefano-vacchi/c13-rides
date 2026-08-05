@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T05:40:24.823Z",
-  "count": 86,
+  "generatedAt": "2026-08-05T05:38:11.752Z",
+  "count": 88,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -766,6 +766,24 @@
       "city": "Vallauris",
       "date": "2026-08-08T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3515657635394526324/occurrences/FQIW6PGk2cP_j8phHBTUHxQQFBAUEhQAFAAAHBaAht-C_GcAAA=="
+    },
+    {
+      "id": "rec6oqiUH5SR5UPC6",
+      "dealer": "Sport\n  & Mode Natter E.U.",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Mellau",
+      "date": "2026-08-08T12:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3519657701389924990/occurrences/FQIW_OmD5YGCq9hhHBTUHxQQFBAUGBQAFAAAHBaAtIWN_GcAAA=="
+    },
+    {
+      "id": "recZT4iLzbc3WaHj5",
+      "dealer": "Agoura Hills Bike Shop",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Agoura Hills, CA",
+      "date": "2026-08-09T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3519705643779882622/occurrences/FQIW_Pn_ttDowNhhHBTUHxQQFBIUEhQAFAAAHBaAgIX0_GcAAA=="
     },
     {
       "id": "recb87MMLYD8l4UdP",
