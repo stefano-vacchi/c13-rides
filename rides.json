@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17T03:41:53.758Z",
-  "count": 88,
+  "generatedAt": "2026-08-18T03:37:14.795Z",
+  "count": 90,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -786,6 +786,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3519705643779882622/occurrences/FQIW_Pn_ttDowNhhHBTUHxQQFBIUEhQAFAAAHBaAgIX0_GcAAA=="
     },
     {
+      "id": "recpcqleTxazZLspW",
+      "dealer": "SnowFun Roskilde ",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "city": "Roskilde",
+      "date": "2026-08-20T16:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3524369068921399336/occurrences/FQIW0KD5ptm_ielhHBTUHxQQFCgUIBQ8FAAAHBaAuaH5g2gAAA=="
+    },
+    {
       "id": "recb87MMLYD8l4UdP",
       "dealer": "Golden\n  Cycles",
       "country": "France",
@@ -793,6 +802,15 @@
       "city": "Monaco",
       "date": "2026-08-22T09:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recuhBe0Fc41x4TCK",
+      "dealer": "MTBiker",
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "city": "Bratislava",
+      "date": "2026-09-05T10:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3524427987528499058/occurrences/FQIW5P2lkZulpOlhHBTUHxQSFAoUFBQ8FAAAHBaA3YKLjmgAAA=="
     }
   ]
 }
