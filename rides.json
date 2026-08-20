@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19T03:39:12.253Z",
-  "count": 90,
+  "generatedAt": "2026-08-20T03:39:25.523Z",
+  "count": 96,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -811,6 +811,60 @@
       "city": "Bratislava",
       "date": "2026-09-05T10:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3524427987528499058/occurrences/FQIW5P2lkZulpOlhHBTUHxQSFAoUFBQ8FAAAHBaA3YKLjmgAAA=="
+    },
+    {
+      "id": "recEoBjf1n2hB98fI",
+      "dealer": "Sykkelopplevelser Gravel - 40Km",
+      "country": "Norway",
+      "countryCode": "NO",
+      "city": "Lørenskog",
+      "date": "2026-09-05T11:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525071353722952718/occurrences/FQIWnPD-6IbuyOthHBTUHxQSFAoUFhQAFAAAHBaAut6MjmgAAA=="
+    },
+    {
+      "id": "rec0oDZ4x1OLwjiDt",
+      "dealer": "Sykkelopplevelser Road - 30Km",
+      "country": "Norway",
+      "countryCode": "NO",
+      "city": "Lørenskog",
+      "date": "2026-09-05T11:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525072001568802762/occurrences/FQIWlJ_40uGTyethHBTUHxQSFAoUFhQAFAAAHBaAut6MjmgAAA=="
+    },
+    {
+      "id": "recQ8kyLnbbtKes4V",
+      "dealer": "Bikepirat 50K Clockwise",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Grafenwoerth",
+      "date": "2026-09-19T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525063328843056142/occurrences/FQIWnJCS5_iaxethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
+    },
+    {
+      "id": "recF9Tx1WaIJp0tQY",
+      "dealer": "Bikepirat 50K Counterclockwise",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Grafenwoerth",
+      "date": "2026-09-19T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525063650618451034/occurrences/FQIWtJGJnNatxethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
+    },
+    {
+      "id": "recxD0bDCWr0OpOqq",
+      "dealer": "Bikepirat 70K Clockwise",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Grafenwoerth",
+      "date": "2026-09-19T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525063949165449306/occurrences/FQIWtMHWyIa_xethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
+    },
+    {
+      "id": "recRDXXjVzyXgXTee",
+      "dealer": "Bikepirat 70K Counterclockwise",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Grafenwoerth",
+      "date": "2026-09-19T08:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525064248006979598/occurrences/FQIWnMCVjrnQxethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
     }
   ]
 }
