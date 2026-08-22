@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T03:43:01.408Z",
-  "count": 96,
+  "generatedAt": "2026-08-22T03:35:07.411Z",
+  "count": 100,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -795,6 +795,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3524369068921399336/occurrences/FQIW0KD5ptm_ielhHBTUHxQQFCgUIBQ8FAAAHBaAuaH5g2gAAA=="
     },
     {
+      "id": "recZYs6ZlqUvLb4VV",
+      "dealer": "Marin Service Course",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Fairfax",
+      "date": "2026-08-22T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525879372889421550/occurrences/FQIW3Nub3_qmuO5hHBTUHxQQFCwUEBQAFAAAHBaA9uKfhWgAAA=="
+    },
+    {
       "id": "recb87MMLYD8l4UdP",
       "dealer": "Golden\n  Cycles",
       "country": "France",
@@ -802,6 +811,24 @@
       "city": "Monaco",
       "date": "2026-08-22T09:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "recUFQCcsow11smeC",
+      "dealer": "Velo\n  Pasadena",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Pasadena, CA",
+      "date": "2026-08-22T14:48:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recqiT2uG9hZLxChE",
+      "dealer": "Cycles\n  BiKyle",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Bryn Mawr, PA",
+      "date": "2026-08-26T18:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525864269330616692/occurrences/FQIW6MWMu-i3se5hHBTUHxQQFDQUJBQAFAAAHBaAzLKBiGgAAA=="
     },
     {
       "id": "recuhBe0Fc41x4TCK",
@@ -829,6 +856,15 @@
       "city": "Lørenskog",
       "date": "2026-09-05T11:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3525072001568802762/occurrences/FQIWlJ_40uGTyethHBTUHxQSFAoUFhQAFAAAHBaAut6MjmgAAA=="
+    },
+    {
+      "id": "rec77vBzvBUI0utDy",
+      "dealer": "Bicyclic Hognoul",
+      "country": "Belgium",
+      "countryCode": "BE",
+      "city": "Hognoul",
+      "date": "2026-09-12T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3525877119062880816/occurrences/FQIW4MjdtuKjt-5hHBTUHxQSFBgUEhQAFAAAHBaA1tPGkmgAAA=="
     },
     {
       "id": "recQ8kyLnbbtKes4V",
