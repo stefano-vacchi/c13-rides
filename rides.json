@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T09:08:26.800Z",
-  "count": 100,
+  "generatedAt": "2026-09-01T08:09:16.180Z",
+  "count": 104,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -858,6 +858,33 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3525072001568802762/occurrences/FQIWlJ_40uGTyethHBTUHxQSFAoUFhQAFAAAHBaAut6MjmgAAA=="
     },
     {
+      "id": "recqGXNCvvKPNAub1",
+      "dealer": "Sigma Sport - Group 1",
+      "country": "UK",
+      "countryCode": "UK",
+      "city": "London",
+      "date": "2026-09-06T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3529779209433597028/occurrences/FQIWyJHKnanfpfxhHBTUHxQSFAwUEBQAFAAAHBaAtqLYjmgAAA=="
+    },
+    {
+      "id": "recC26nEFnp5g1nW4",
+      "dealer": "Sigma Sport - Group 2",
+      "country": "UK",
+      "countryCode": "UK",
+      "city": "London",
+      "date": "2026-09-06T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3529779835131162724/occurrences/FQIWyMGjhd-DpvxhHBTUHxQSFAwUEBQAFAAAHBaAtqLYjmgAAA=="
+    },
+    {
+      "id": "rec33LRax8NuY9EK9",
+      "dealer": "Sigma Sport - Group 3",
+      "country": "UK",
+      "countryCode": "UK",
+      "city": "London",
+      "date": "2026-09-06T08:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3529780209369183332/occurrences/FQIWyNG7qsOZpvxhHBTUHxQSFAwUEBQAFAAAHBaAtqLYjmgAAA=="
+    },
+    {
       "id": "rec77vBzvBUI0utDy",
       "dealer": "Bicyclic Hognoul",
       "country": "Belgium",
@@ -901,6 +928,15 @@
       "city": "Grafenwoerth",
       "date": "2026-09-19T08:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3525064248006979598/occurrences/FQIWnMCVjrnQxethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
+    },
+    {
+      "id": "recKbUNmZnSJVaJpT",
+      "dealer": "KarlvonDrais  GLOBAL RIDE",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Frankfurt",
+      "date": "2026-09-26T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3529450129893386382/occurrences/FQIWnKKDzK-MkPthHBTUHxQSFDQUFBQAFAAAHBaAsNPLm2gAAA=="
     }
   ]
 }
