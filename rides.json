@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T07:33:46.093Z",
-  "count": 104,
+  "generatedAt": "2026-09-04T07:34:38.873Z",
+  "count": 106,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -856,6 +856,24 @@
       "city": "Lørenskog",
       "date": "2026-09-05T11:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3525072001568802762/occurrences/FQIWlJ_40uGTyethHBTUHxQSFAoUFhQAFAAAHBaAut6MjmgAAA=="
+    },
+    {
+      "id": "recjGpRYD2OvrQBUu",
+      "dealer": "Resch-Ginner  GmbH - Espresso Group",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Amstetten",
+      "date": "2026-09-05T12:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3530566837394940982/occurrences/FQIW7JCZ66b1i_9hHBTUHxQSFAoUGBQ8FAAAHBaA0fGRjmgAAA=="
+    },
+    {
+      "id": "recCmd8RSfW2Gwlnk",
+      "dealer": "Resch-Ginner  GmbH - Cappuccino Group",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Amstetten",
+      "date": "2026-09-05T13:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3530567311317432364/occurrences/FQIW2ODz6vGQjP9hHBTUHxQSFAoUGhQAFAAAHBaArs2TjmgAAA=="
     },
     {
       "id": "recqGXNCvvKPNAub1",
