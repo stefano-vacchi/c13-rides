@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07T07:44:28.867Z",
-  "count": 106,
+  "generatedAt": "2026-09-08T07:37:52.569Z",
+  "count": 111,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -912,6 +912,24 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3525877119062880816/occurrences/FQIW4MjdtuKjt-5hHBTUHxQSFBgUEhQAFAAAHBaA1tPGkmgAAA=="
     },
     {
+      "id": "recGKuVTgJY3bGUbj",
+      "dealer": "Radaktiv - short",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Graz",
+      "date": "2026-09-12T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3531968770681982414/occurrences/FQIWnLeu5Me4iYRiHBTUHxQSFBgUEhQAFAAAHBaA1tPGkmgAAA=="
+    },
+    {
+      "id": "recqtkQuYxRHvITP8",
+      "dealer": "Radaktiv - long",
+      "country": "Austria",
+      "countryCode": "A",
+      "city": "Graz",
+      "date": "2026-09-12T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3531968249555122494/occurrences/FQIW_OSHi52aiYRiHBTUHxQSFBgUEhQAFAAAHBaA1tPGkmgAAA=="
+    },
+    {
       "id": "recQ8kyLnbbtKes4V",
       "dealer": "Bikepirat 50K Clockwise",
       "country": "Austria",
@@ -948,6 +966,24 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3525064248006979598/occurrences/FQIWnMCVjrnQxethHBTUHxQSFCYUEBQ8FAAAHBaAidyFl2gAAA=="
     },
     {
+      "id": "recc7hWSPVli7PKuw",
+      "dealer": "Le Bon Wagon - strava link",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Annecy",
+      "date": "2026-09-20T10:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3531987655870472114/occurrences/FQIW5P7Ks-mDkoRiHBTUHxQSFCgUFBQAFAAAHBaAkKLdl2gAAA=="
+    },
+    {
+      "id": "recnCZBOdFL6rkF91",
+      "dealer": "Le Bon Wagon - Eventbrite link",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Annecy",
+      "date": "2026-09-20T10:00:00.000Z",
+      "link": "https://www.eventbrite.fr/e/assos-collective-13-x-lebonwagon-annecy-tickets-1999484688528?aff=oddtdtcreator"
+    },
+    {
       "id": "recKbUNmZnSJVaJpT",
       "dealer": "KarlvonDrais  GLOBAL RIDE",
       "country": "Germany",
@@ -955,6 +991,15 @@
       "city": "Frankfurt",
       "date": "2026-09-26T10:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3529450129893386382/occurrences/FQIWnKKDzK-MkPthHBTUHxQSFDQUFBQAFAAAHBaAsNPLm2gAAA=="
+    },
+    {
+      "id": "recvOVsnRes32ekrH",
+      "dealer": "Cycles Cassese",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Romans-sur-Isère",
+      "date": "2026-10-03T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3531953561952855826/occurrences/FQIWpJyB9qXDgoRiHBTUHxQUFAYUEhQAFAAAHBaAhoCJoGgAAA=="
     }
   ]
 }
