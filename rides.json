@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-23T08:08:52.747Z",
-  "count": 113,
+  "generatedAt": "2026-09-24T08:00:31.827Z",
+  "count": 116,
   "items": [
+    {
+      "id": "recH1yfO4f1dosE3K",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "id": "recpdIs3fVY24HoZ8",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -1000,6 +1018,15 @@
       "city": "Frankfurt",
       "date": "2026-09-26T10:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3529450129893386382/occurrences/FQIWnKKDzK-MkPthHBTUHxQSFDQUFBQAFAAAHBaAsNPLm2gAAA=="
+    },
+    {
+      "id": "recU3Zt0Ww8yV3IeD",
+      "dealer": "Schuster",
+      "country": "Germany",
+      "countryCode": "DE",
+      "city": "Munich",
+      "date": "2026-10-02T16:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3537761084877773144/occurrences/FQIWsOW4xc-905hiHBTUHxQUFAQUIBQAFAAAHBaArNHOn2gAAA=="
     },
     {
       "id": "recvOVsnRes32ekrH",
