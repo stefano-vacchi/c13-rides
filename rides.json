@@ -1,18 +1,9 @@
 {
-  "generatedAt": "2026-09-25T08:24:00.327Z",
-  "count": 116,
+  "generatedAt": "2026-09-26T08:10:53.018Z",
+  "count": 121,
   "items": [
     {
-      "id": "recH1yfO4f1dosE3K",
-      "dealer": "",
-      "country": "",
-      "countryCode": "",
-      "city": "",
-      "date": "",
-      "link": ""
-    },
-    {
-      "id": "recpdIs3fVY24HoZ8",
+      "id": "reczKv9PgUai92DQH",
       "dealer": "",
       "country": "",
       "countryCode": "",
@@ -1020,6 +1011,15 @@
       "link": "https://www.strava.com/clubs/99524/group_events/3529450129893386382/occurrences/FQIWnKKDzK-MkPthHBTUHxQSFDQUFBQAFAAAHBaAsNPLm2gAAA=="
     },
     {
+      "id": "recH1yfO4f1dosE3K",
+      "dealer": "Strictly Bicycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Fort Lee",
+      "date": "2026-09-27T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3538520559805424736/occurrences/FQIWwJHz2fDsrJtiHBTUHxQSFDYUEhQAFAAAHBaAwpuvnGgAAA=="
+    },
+    {
       "id": "recU3Zt0Ww8yV3IeD",
       "dealer": "Schuster",
       "country": "Germany",
@@ -1045,6 +1045,51 @@
       "city": "Città di Castello",
       "date": "2026-10-03T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3537474445717020016/occurrences/FQIW4PXgr4OR0ZdiHBTUHxQUFAYUEhQAFAAAHBaAhoCJoGgAAA=="
+    },
+    {
+      "id": "recPDOuC8pAV6KXUE",
+      "dealer": "University Bicycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Boulder",
+      "date": "2026-10-03T10:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recWIq1J9X16jF6G0",
+      "dealer": "Alex Bicycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Weston",
+      "date": "2026-10-10T06:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recQo2myH4T0U4Eas",
+      "dealer": "River City Bicycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Portland",
+      "date": "2026-10-10T10:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recrk8UaiTAyyPxOI",
+      "dealer": "Adventure Lab",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Bentonville",
+      "date": "2026-10-16T09:30:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recpdIs3fVY24HoZ8",
+      "dealer": "Element Cycles",
+      "country": "United States",
+      "countryCode": "USA",
+      "city": "Redmond",
+      "date": "2026-10-17T09:00:00.000Z",
+      "link": ""
     }
   ]
 }
