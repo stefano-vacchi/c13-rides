@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-09-30T09:10:44.675Z",
+  "generatedAt": "2026-10-01T09:38:27.170Z",
   "count": 121,
   "items": [
-    {
-      "id": "reczKv9PgUai92DQH",
-      "dealer": "",
-      "country": "",
-      "countryCode": "",
-      "city": "",
-      "date": "",
-      "link": ""
-    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -1090,6 +1081,15 @@
       "city": "Redmond",
       "date": "2026-10-17T09:00:00.000Z",
       "link": ""
+    },
+    {
+      "id": "reczKv9PgUai92DQH",
+      "dealer": "Milano Cycling",
+      "country": "Italy",
+      "countryCode": "IT",
+      "city": "Milano",
+      "date": "2026-10-17T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3540375079853048048/occurrences/FQIW4IPK5JOY-KFiHBTUHxQUFCIUEhQAFAAAHBaApsiKqWgAAA=="
     }
   ]
 }
