@@ -1,7 +1,16 @@
 {
-  "generatedAt": "2026-10-07T09:35:50.618Z",
-  "count": 121,
+  "generatedAt": "2026-10-08T09:46:14.071Z",
+  "count": 125,
   "items": [
+    {
+      "id": "rec0nXwNn7oINs2sK",
+      "dealer": "",
+      "country": "",
+      "countryCode": "",
+      "city": "",
+      "date": "",
+      "link": ""
+    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -1065,6 +1074,15 @@
       "link": ""
     },
     {
+      "id": "recxvvESnNHLUNdR6",
+      "dealer": "Ride w/\n  Cobbles",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Lille",
+      "date": "2026-10-15T19:00:00.000Z",
+      "link": ""
+    },
+    {
       "id": "recrk8UaiTAyyPxOI",
       "dealer": "Adventure Lab",
       "country": "United States",
@@ -1090,6 +1108,24 @@
       "city": "Milano",
       "date": "2026-10-17T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3540375079853048048/occurrences/FQIW4IPK5JOY-KFiHBTUHxQUFCIUEhQAFAAAHBaApsiKqWgAAA=="
+    },
+    {
+      "id": "recrCnwC3HkJp6LKt",
+      "dealer": "Le  Ravito 18 - time TBC",
+      "country": "France",
+      "countryCode": "FR",
+      "city": "Paris",
+      "date": "2026-10-17T10:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "recmDpFb1MmJU7hux",
+      "dealer": "Ravet Bike",
+      "country": "Spain",
+      "countryCode": "ES",
+      "city": "Granollers",
+      "date": "2026-10-24T09:00:00.000Z",
+      "link": ""
     }
   ]
 }
