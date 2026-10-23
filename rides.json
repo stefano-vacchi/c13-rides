@@ -1,16 +1,7 @@
 {
-  "generatedAt": "2026-10-22T08:09:43.066Z",
+  "generatedAt": "2026-10-23T08:08:01.119Z",
   "count": 125,
   "items": [
-    {
-      "id": "rec0nXwNn7oINs2sK",
-      "dealer": "",
-      "country": "",
-      "countryCode": "",
-      "city": "",
-      "date": "",
-      "link": ""
-    },
     {
       "id": "rec8EamE2OYCFhici",
       "dealer": "Mellow\n  Johnny's",
@@ -1125,6 +1116,15 @@
       "countryCode": "ES",
       "city": "Granollers",
       "date": "2026-10-24T09:00:00.000Z",
+      "link": ""
+    },
+    {
+      "id": "rec0nXwNn7oINs2sK",
+      "dealer": "Biemme Bikes",
+      "country": "Italy",
+      "countryCode": "IT",
+      "city": "Forte dei Marmi",
+      "date": "2026-11-07T08:30:00.000Z",
       "link": ""
     }
   ]
