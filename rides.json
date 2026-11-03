@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T10:22:12.801Z",
-  "count": 125,
+  "generatedAt": "2026-11-03T10:20:30.033Z",
+  "count": 126,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -1126,6 +1126,15 @@
       "city": "Forte dei Marmi",
       "date": "2026-11-07T08:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3549789763845980780/occurrences/FQIW2Inc1fG-scNiHBTUHxQWFA4UEBQ8FAAAHBaAs9DOtmgAAA=="
+    },
+    {
+      "id": "recEOMbY84fUlPdbB",
+      "dealer": "London Boutique",
+      "country": "UK",
+      "countryCode": "UK",
+      "city": "London",
+      "date": "2026-11-13T07:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3552345753411088128/occurrences/FQIWgLz79ofpu8xiHBTUHxQWFBoUDhQAFAAAHBaA9qW7umgAAA=="
     }
   ]
 }
