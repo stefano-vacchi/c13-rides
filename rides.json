@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T10:20:30.033Z",
-  "count": 126,
+  "generatedAt": "2026-11-04T10:13:51.733Z",
+  "count": 127,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -1135,6 +1135,15 @@
       "city": "London",
       "date": "2026-11-13T07:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3552345753411088128/occurrences/FQIWgLz79ofpu8xiHBTUHxQWFBoUDhQAFAAAHBaA9qW7umgAAA=="
+    },
+    {
+      "id": "recOioXQ0W8cR35P7",
+      "dealer": "Dal Gorgo",
+      "country": "Italy",
+      "countryCode": "IT",
+      "city": "Perugia",
+      "date": "2026-11-22T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3552993503065303532/occurrences/FQIW2KfT94ax4s5iHBTUHxQWFCwUEhQAFAAAHBaAoKekwGgAAA=="
     }
   ]
 }
