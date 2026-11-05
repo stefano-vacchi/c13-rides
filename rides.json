@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T10:13:51.733Z",
-  "count": 127,
+  "generatedAt": "2026-11-05T10:07:14.889Z",
+  "count": 128,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -1135,6 +1135,15 @@
       "city": "London",
       "date": "2026-11-13T07:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3552345753411088128/occurrences/FQIWgLz79ofpu8xiHBTUHxQWFBoUDhQAFAAAHBaA9qW7umgAAA=="
+    },
+    {
+      "id": "recl0GbfR7T4S70ev",
+      "dealer": "London Boutiqe - registration link ",
+      "country": "UK",
+      "countryCode": "UK",
+      "city": "London",
+      "date": "2026-11-13T07:00:00.000Z",
+      "link": "https://www.eventbrite.com/e/assos-collective-13-x-axelle-dubau-prevot-taylor-phinney-tickets-2004243930549?aff=oddtdtcreator"
     },
     {
       "id": "recOioXQ0W8cR35P7",
