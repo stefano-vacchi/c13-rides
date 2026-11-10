@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T10:42:54.108Z",
-  "count": 128,
+  "generatedAt": "2026-11-10T10:38:47.916Z",
+  "count": 129,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -1153,6 +1153,15 @@
       "city": "Perugia",
       "date": "2026-11-22T09:00:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3552993503065303532/occurrences/FQIW2KfT94ax4s5iHBTUHxQWFCwUEhQAFAAAHBaAoKekwGgAAA=="
+    },
+    {
+      "id": "rec1rFbXkdhqEjE3w",
+      "dealer": "Ride\n  & Recover (DK)",
+      "country": "Denmark",
+      "countryCode": "DK",
+      "city": "Køge",
+      "date": "2026-11-28T09:30:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3554833653402555510/occurrences/FQIW7NHOqvOXp9ViHBTUHxQWFDgUEhQ8FAAAHBaAnbSUxGgAAA=="
     }
   ]
 }
