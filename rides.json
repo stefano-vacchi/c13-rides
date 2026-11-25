@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T13:07:55.119Z",
-  "count": 130,
+  "generatedAt": "2026-11-25T11:55:49.896Z",
+  "count": 131,
   "items": [
     {
       "id": "rec8EamE2OYCFhici",
@@ -1162,6 +1162,15 @@
       "city": "Køge",
       "date": "2026-11-28T09:30:00.000Z",
       "link": "https://www.strava.com/clubs/99524/group_events/3554833653402555510/occurrences/FQIW7NHOqvOXp9ViHBTUHxQWFDgUEhQ8FAAAHBaAnbSUxGgAAA=="
+    },
+    {
+      "id": "recTYBcqbxUWcqEaJ",
+      "dealer": "Sbr Store Mataro",
+      "country": "Spain",
+      "countryCode": "ES",
+      "city": "Matarò",
+      "date": "2026-12-12T09:00:00.000Z",
+      "link": "https://www.strava.com/clubs/99524/group_events/3560591198252592276/occurrences/FQIWqLLTo4-14eliHBTUHxQYFBgUEhQAFAAAHBaA4KCUzWgAAA=="
     },
     {
       "id": "reclauK6RFNT4OSO3",
